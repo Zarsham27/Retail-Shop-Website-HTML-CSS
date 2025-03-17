@@ -1,7 +1,9 @@
 <html>
   
 <head>
-<title>Leather Products Website</title>
+  
+<title> Leather Products Website </title>
+
 </head>
   
 <body>
