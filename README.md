@@ -3,7 +3,7 @@
   
 <head>
   
-<title> Leather Products Website </title>
+<h1> Leather Products Website </h1>
 
 </head>
   
