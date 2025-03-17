@@ -9,7 +9,7 @@
   
 <body>
   
-<p>This is my first project, where I created a simple website showcasing various leather products. It consists of multiple HTML pages along with images of products.</p>
+<p style="background-color:black;">This is my first project, where I created a simple website showcasing various leather products. It consists of multiple HTML pages along with images of products.</p>
   
 <h1>Project Structure</h1>
   
